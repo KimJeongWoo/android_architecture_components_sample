@@ -1,2 +1,10 @@
 # android_architecture_components_sample
-android architecture components sample project
+Android Architecture Components sample project
+
+A collection of samples using the Architecture Components:
+
+ViewModels
+LiveData
+Dagger2
+
+Sample developed by Kotlin.
