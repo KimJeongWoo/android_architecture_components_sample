@@ -3,8 +3,8 @@ Android Architecture Components sample project
 
 A collection of samples using the Architecture Components:
 
-ViewModels
-LiveData
-Dagger2
+- ViewModels
+- LiveData
+- Dagger2
 
 Sample developed by Kotlin.
