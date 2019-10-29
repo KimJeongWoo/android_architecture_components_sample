@@ -6,5 +6,6 @@ A collection of samples using the Architecture Components:
 - ViewModels
 - LiveData
 - Dagger2
+- Data Binding
 
 Sample developed by Kotlin.
